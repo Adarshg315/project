@@ -1,0 +1,23 @@
+---
+author: Sabeen
+---
+
+Open source is a term that originally referred to open source software (OSS). Open source software is code that is designed to be publicly accessible — anyone can see, modify, and distribute the code as they see fit.
+
+Open source work sharpens your skills in ways you never realized were dull — from writing cleaner, more maintainable code to learning how to communicate well and work as a team. It’s also the best possible resume builder for a working or aspiring professional developer; potential employers can hit your repository and see what you’re capable of, and developers you’ve worked with on community projects may want to bring you in on paying gigs.
+
+Ultimately, working on open source projects — yours or others’ — means personal growth, because you’re working on something larger than yourself.
+
+Hence, the people who want to contribute in any project and develop, test, modify open source software product come together in a community that is open source community. A loosely organized, ad-hoc community of contributors from all over the world who share an interest in meeting a common need, ranging from minor projects to huge developments, and carry it out using a high-performance collaborative development environment, allowing the organizational scheme and processes to emerge over time.
+
+Perhaps , we have build an open source community — OPEN MINDD. Everyone is free to join this community and contribute as leader, owner, maintainer, contributor, user, community member, etc. Feel free to choose your role. The community is one of the things that can make or break an open source project, and having a strong, vibrant, and diverse open source community is important to the project’s success. All of the people in the roles listed above are part of this community along with people filling other critical roles in the project for documentation, marketing, user support, and so much more. Showcase your talent and build networks.
+
+Having trouble with your website, project, blog or need more people to work with you in your project? Join the community and seek help. Even if you have a new idea you can make your own group and work as it takes a community to create a healthy open source project. This community is a platform that helps everyone it may be related to technical or non-technical aspects. Gain more knowledge, improve your skills, improve your logic, and implement what you have in mind.
+
+Everyone has a chance to make a difference. People from all backgrounds with diverse perspectives can participate. We value your opinion and ideas and we are giving you the platform to show them. In our community you will learn to collaborate, to listen to others, to embrace diversity, can make you a better person.
+
+Learn how to contribute, why it’s important to devote internal developer resources to participation, and why it’s important to create a strategy for open source participation and management.
+
+Follow us on :
+Linkedin : https://www.linkedin.com/company/open-mindd/
+GitHub: https://github.com/open-mindd

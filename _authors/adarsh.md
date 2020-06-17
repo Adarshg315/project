@@ -4,4 +4,4 @@ name: Adarsh Goyal
 position: Founder
 ---
 
-Adarsh is an avid programmer based in the Middle of India.
+Adarsh is an avid open source guy based in the Middle of India.
