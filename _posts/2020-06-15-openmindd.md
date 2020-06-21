@@ -19,5 +19,6 @@ Everyone has a chance to make a difference. People from all backgrounds with div
 Learn how to contribute, why it’s important to devote internal developer resources to participation, and why it’s important to create a strategy for open source participation and management.
 
 Follow us on :
+
 Linkedin : https://www.linkedin.com/company/open-mindd/
 GitHub: https://github.com/open-mindd
